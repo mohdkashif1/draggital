@@ -1,0 +1,224 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar-brand{
+  margin-left: 3rem;
+  font-size: 2rem;
+}
+
+.navbar-nav{
+margin-left: auto;
+color: white;
+}
+.blueColored{
+  color: white;
+  background-image: url("https://images.pexels.com/photos/1445416/pexels-photo-1445416.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+
+.home-page{
+margin: 1rem;
+padding: 2rem;
+}
+
+.Starting-title h1{
+  font-size: 4rem;
+
+  font-family: serif;
+}
+.Starting-title p{
+  font-size: 1.2rem;
+}
+.Starting-title button{
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+}
+.form-input{
+  border: 3px solid white;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  opacity: 60%;
+
+}
+
+.form-inside{
+  border: 3px solid white;
+  border-radius: 0.5rem;
+   width:90%;
+  margin: 0.5rem;
+
+}
+.btn{
+  background-color: yellow;
+}
+.whiteColor{
+
+  padding: 3rem;
+
+
+
+}
+.whiteColor img{
+border: 3px solid white;
+border-radius: 10px;
+height: 30rem;
+width:30rem;
+}
+
+.white-content h1{
+  color: orange;
+}
+.white-content p{
+  padding-top: 2rem;
+
+}
+.white-content button{
+  border: none;
+  background-color: orange;
+  color:white;
+  width :30%;
+}
+.services-top{
+
+text-align: center;
+
+}
+.services{
+  padding: auto;
+  margin: auto;
+}
+
+.card{
+  border: none;
+  padding: 2rem;
+}
+.card img{
+  width: 100%;
+  height:20vh;
+}
+
+.services-top h1{
+color: blue;
+}
+.services-top h5{
+
+color: gray;
+}
+
+/*importance-section*/
+.importance{
+  display: flex;
+  flex-direction: column;
+}
+.imp-card{
+  display: flex;
+  flex-direction: row;
+
+}
+.imp-card img{
+  width:100%;
+}
+.imp-inside{
+
+}
+.imp-cards{
+flex-grow: 2;
+}
+/* meet section  */
+.meet{
+  width:100%;
+  height: 100%;
+  margin-top: 3rem;
+}
+.meet img{
+  height: 50%;
+  width: 50%;
+  border-radius: 100%;
+}
+
+.meet h1{
+  color: pink;
+}
+
+.fa{
+  text-decoration: none;
+  padding: 0.5rem;
+
+  color:white;
+  align-items: center;
+}
+.fa-facebook{
+  background-color: blue;
+}
+.fa-twitter{
+  background-color: skyblue;
+}
+.fa-linkedin{
+  background-color: #86aba1;
+}
+.fa-instagram{
+  background-color: #d68060;
+}
+/* frequently asked questions */
+
+
+.fre-ask{
+margin-top: 5rem;
+}
+.fre-ask span{
+  border: 1px solid white;
+  border-radius: 5px;
+  background: yellow;
+  padding: 0.5rem;
+}
+.fre-ask h4{
+  color: blue;
+}
+ .btngrp{
+
+
+}
+.fre-ask img{
+
+
+}
+.fres h1{
+  color: lightblue;
+
+}
+.fres{
+
+}
+.fresh{
+
+}
+.newsletter{
+  background-color: blue;
+  color: white;
+  width: 100%;
+  height:auto;
+  margin-top: 4rem;
+  padding-top: 2rem;
+}
+.footer{
+  background-color: blue;
+}
+#pricing{
+  padding-top: 2rem;
+  text-align:center;
+
+}
+.white-section h1{
+  color:#8ad7c1;
+}
+.white-section h3{
+ color:#c24914 ;
+}
+.white-section button{
+  background-color: #03506f;
+}
